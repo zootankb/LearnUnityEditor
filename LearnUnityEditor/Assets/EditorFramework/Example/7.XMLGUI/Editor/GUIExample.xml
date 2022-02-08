@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GUI>
+  <LayoutVertical box="true">
+    <LayoutHorizontal id="firstLine">
+      <LayoutLabel id="label1">Hello XMLGUI1</LayoutLabel>
+      <LayoutLabel id="label2">Hello XMLGUI2</LayoutLabel>
+      <LayoutLabel id="label3">Hello XMLGUI3</LayoutLabel>
+      <LayoutButton id="loginButton">登录按钮</LayoutButton>
+    </LayoutHorizontal>
+    <LayoutHorizontal box="true">
+      <LayoutLabel id="label4">Hello Second line</LayoutLabel>
+    </LayoutHorizontal>
+  </LayoutVertical>
+</GUI>
